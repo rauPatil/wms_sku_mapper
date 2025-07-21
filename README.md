@@ -121,18 +121,9 @@ streamlit run streamlit_app.py
 ### Step 4: Dashboard View
 - View top MSKUs sold and available stock on the Charts page
 
----
-
-## 🎥 Loom Video Walkthrough
-
-👉 [Click here to view Loom video walkthrough](#)  
-
-
----
+--
 
 ## 📧 Submission
-
-Email to: `vaibhav@cste.international`  
 Subject: **WMS Assignment – Neel Patil**
 
 ---
