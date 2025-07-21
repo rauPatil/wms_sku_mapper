@@ -126,7 +126,7 @@ streamlit run streamlit_app.py
 ## 🎥 Loom Video Walkthrough
 
 👉 [Click here to view Loom video walkthrough](#)  
-(*replace `#` with your Loom link after recording*)
+
 
 ---
 
