@@ -123,6 +123,10 @@ streamlit run streamlit_app.py
 
 --
 
+Video Link:
+(I was not able to make loom video so i recorded my screen and shared drive link)
+https://drive.google.com/file/d/1beV-Mm8GVRfA97b98gOM0P2XxR_EnOQ4/view?usp=drive_link
+
 ## 📧 Submission
 Subject: **WMS Assignment – Neel Patil**
 
